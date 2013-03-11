@@ -1,0 +1,3 @@
+add_lunch_combo ele_mako-userdebug
+add_lunch_combo ele_toro-userdebug
+add_lunch_combo ele_t0lte-userdebug
